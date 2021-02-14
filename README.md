@@ -1,7 +1,7 @@
 # S&P 100
 This project predicted the return of a single company from the S&P100 index of the New York Stock Exchange. The data set consisted of microsecond-level transactions of all 100 companies belonging to this index; however, only one of these companies was chosen for analysis.
 
-# Architecture
+## Architecture
 The full data set was 180 GB in size and therefore needed to be analysed using a cluster of 4 computers. The cluster was formatted into HDFS.
 
 ## Data Extraction
