@@ -1,4 +1,4 @@
-#Data Mining on Spark Standalone using Scala
+# Data Mining on Spark Standalone using Scala
 This is a sample of a mining code used in this project.
 
 First compile the package with sbt

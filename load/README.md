@@ -1,4 +1,4 @@
-#Load data into HDFS
+# Load data into HDFS
 Load transformed files into the constituenttimesales/RICCodes folder in HDFS using the following command:
 
 ```

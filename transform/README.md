@@ -1,4 +1,4 @@
-#Transform data
+# Transform data
 
 Data transformation requires the merging of various tables. This can be done as follows.
 1. First merge the data of all companies within the folder with `batchmerge.sh`
